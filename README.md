@@ -21,7 +21,7 @@ Exibição clara dos nomes e habilidades dos jogadores em cada fase.
 
 💡 O projeto foi criado com foco em automação e experiência prática com interface gráfica, lógica de balanceamento e controle de fluxo em Python.
 
-ENGLISH-------------------------------------------------------------------------------------------------------------------------------------------
+ENGLISH---------------------------------------------------------------------------------------------------------------------------------------------------------
 Soccer Team Divider & Tournament Manager is a Python Tkinter application that allows users to split soccer teams fairly and run knockout-style tournaments.
 
 The program includes two main modes:
